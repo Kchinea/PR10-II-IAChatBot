@@ -4,4 +4,4 @@ En esta práctica haremos uso de, mediante una petición http, una ia generativa
 ## Respuesta
 La selección francesa de fútbol actual es una de las mejores del mundo. Han tenido una trayectoria impecable en los últimos años, ganando el Mundial 2018 y siendo finalistas en la Eurocopa 2020.\n\nSu juego es muy atractivo, con un equilibrio perfecto entre ataque y defensa. Tienen jugadores talentosos como Kylian Mbappé, Antoine Griezmann, Paul Pogba y N'Golo Kanté, que hacen que su equipo sea muy completo y competitivo.\n\nAdemás, la selección francesa cuenta con un gran entrenador en Didier Deschamps, quien ha sabido sacar el máximo rendimiento de sus jugadores. Estoy seguro de que seguirán siendo una de las potencias del fútbol mundial durante mucho tiempo.
 ## Prueba
-![Prueba](./Kyli.PNG)
+![Prueba](./Kyli.png)
